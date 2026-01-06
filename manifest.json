@@ -1,0 +1,23 @@
+{
+  "version": "1",
+  "information": {
+    "name": "client-suspension-filter",
+    "displayName": "Client Suspension Filter",
+    "description": "Filter clients by suspended service status, suspension date, archive status, and client tags.",
+    "url": "https://github.com/Ubiquiti-App/UCRM-plugins",
+    "version": "2.0.0",
+    "unmsVersionCompliancy": {
+      "min": "1.0.0",
+      "max": null
+    },
+    "author": "Cascade"
+  },
+  "menu": [
+    {
+      "key": "Reports",
+      "label": "Client Suspension Filter",
+      "type": "admin",
+      "target": "iframe"
+    }
+  ]
+}
