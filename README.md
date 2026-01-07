@@ -109,4 +109,4 @@ For plugin-related issues:
 
 ## Author
 
-Developed by Cascade for UISP/UCRM ecosystem.
+**xingginto**
